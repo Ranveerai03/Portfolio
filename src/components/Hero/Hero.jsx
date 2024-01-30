@@ -8,12 +8,10 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Ranveer </h1>
         <p className={styles.description}>
-          I am a skilled and motivated software engineer with a passion for
-          developing innovative solutions. My expertise lies in Python, Java,
-          and C++, and I thrive by working in teams and communicating
-          effectively. With a strong foundation in computer science from The
-          British Columbia Institute of Technology , I am dedicated to
-          continuous learning and driving technological advancements.
+          I am a motivated software engineer with a passion for developing innovative solutions. 
+          My passions are testing and programming; I enjoy solving problems, 
+          and can perform well working alone or in teams. I am a quick learner who can adapt my communication style to meet the needs of any group, 
+          and I love a challenge. I'm dedicated to continuous learning and having fun while coding.
         </p>
 
         <a href="mailto:ranveerrai@yahoo.com" className={styles.contactBtn}>
